@@ -1,0 +1,11 @@
+{
+  "name": "xxx",
+  "version": "0.0.x",
+  "description": "This package was retired.",
+  "author": "Your Name",
+  "license": "MIT",
+  "files": [
+    "package.json",
+    "README.md"
+  ]
+}
